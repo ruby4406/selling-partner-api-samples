@@ -23,6 +23,7 @@ This is considered an intermediate learning resource, and should typically be re
 | Use Case                                                         | Supported Languages      | Documented Code Samples                                                                                                   |
 |------------------------------------------------------------------|--------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | [Data Kiosk](use-cases/data-kiosk)                               | Java / Python            | -                                                                                                                         |
+| [Error Monitoring](use-cases/error-monitoring)                   | Java                     | -      
 | [Fulfillment Outbound](use-cases/fulfillment-outbound)           | Java                     | [Fulfillment Outbound Samples](https://developer-docs.amazon.com/sp-api/docs/code-samples#fulfillment-outbound)           |
 | [Listings](use-cases/listings)                                   | TypeScript / JavaScript  | -                                                                                                                         |
 | [Merchant Fulfillment](use-cases/merchant-fulfillment)           | Java / Python            | [Merchant Fulfillment Samples](https://developer-docs.amazon.com/sp-api/docs/code-samples#merchant-fulfillment-network)   |
